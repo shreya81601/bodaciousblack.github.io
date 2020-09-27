@@ -1,0 +1,245 @@
+
+/*=================================================================*/
+/*FOR THE TOP HEADER/NAVIGATION BAR*/
+
+/* Add a color to the active/current link */
+.top_navigation a.active 
+{
+  background-color: yellow;
+  color: black;
+  /*color: rgba(0,0,0,0.5);*/
+  /*opacity: 0.5;*/
+}
+
+/* Change the color of links on hover */
+.top_navigation .dropdown:hover 
+{
+  background-color: gainsboro;
+  /*background-color: ivory;
+  color: black;*/
+}
+
+/*================================================================*/
+/* FOR THE COVER */
+
+.cover
+{
+  background-image: url("Images/Cover.jpg");
+  width: 100%;
+  height: 550px;
+  color: white;
+  /*text-align: center;*/
+  background-size: cover;
+}
+
+.heading
+{
+  width: 75%;
+  height: auto;
+  padding-top: 18%;
+  /*padding-left: 10%;*/
+  text-align: center;
+  /*border: 2px solid white;*/
+}
+
+h1
+{
+  /*width: 100%;*/
+  vertical-align: middle; /*not working*/
+  font-size: 42pt;
+  font-family: 'Charmonman', cursive;
+  margin: 0;
+  /*padding-top: 300px;
+  padding-left: 150px;*/
+}
+
+h2
+{
+  font-size:20pt; 
+  font-family: 'Charmonman', cursive;
+  /*font-family: 'Charmonman', cursive;*/
+  color: yellow;
+  /*padding-left: 100px;*/
+}
+
+.shadow
+{
+  /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2), 0px 6px 20px 0px rgba(0, 0, 0, 0.19);
+}
+
+/*=============================================================================*/
+/*ABOUT US*/
+
+#abt_us
+{
+  /*background-color: yellow;*/
+  padding: 30px 70px;
+  margin: 3%;
+  border: 2px dotted grey;
+  font-size: 1.2em;
+}
+
+h3
+{
+  font-size: 1.2em;
+  font-family: 'Charmonman', cursive;
+}
+
+/*==============================================================================*/
+/*VIDEO*/
+#vidbg
+{
+  height: auto;
+  background-image: url("Images/vidbg12.jpg");
+  background-size: cover;
+  /*filter: grayscale(50%);*/
+  padding: 5%;
+  padding-top: 2%;
+  /*opacity: 0.8;*/
+}
+
+#vidbg h3
+{
+  font-size: 3em;
+  font-family: 'Katibeh', cursive;
+  padding: 0;
+}
+
+/*video
+{
+  filter: blur(0px);
+}*/
+
+#vid
+{
+  /*pacity: 1.2;*/
+  width: 70%;
+  z-index: 1;
+}
+
+/*==============================================================================*/
+/*PRODUCTS*/
+
+#products
+{
+  background-color: beige;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-family: 'Charmonman', cursive;
+  /*border: 1px solid black;*/
+}
+
+#products div .container
+{
+  width: 100%;
+  height: auto;
+  border: 1px solid black;
+  margin: 0;
+  padding-bottom: 20px;
+} 
+
+#products div h3
+{
+  /*margin-top: 10px;*/
+  font-size: 2em;
+  /*border: 1px solid black;*/
+}
+
+h3 a
+{
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  width: 200px;
+}
+
+.color
+{
+  background-color: ivory;
+  border: 1px solid ivory;
+  /*padding: 20px 0px;*/
+}
+
+/*.color h3
+{
+  padding-top: 25px;
+}
+*/
+.hoodies
+{
+  height: 500px;
+  margin: 10px;
+}
+
+.jackets
+{
+  height: 700px;
+  margin: 10px;
+}
+
+.tops
+{
+  height: 600px;
+  margin: 10px;
+}
+
+.sweaters
+{
+  height: 800px;
+  margin: 10px;
+}
+
+.dresses
+{
+  height: 500px;
+  margin: 10px;
+}
+
+.formals
+{
+  height: 450px;
+  margin: 10px;
+}
+
+h3 a:hover
+{
+  background-color: gainsboro;
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2), 0px 6px 20px 0px rgba(0, 0, 0, 0.19);
+}
+
+.button {
+  border: none;
+  padding: 10px 32px 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  margin: 10px 2px 20px 2px;
+  width: 200px;
+  border: 2px solid black;
+  background-color: black;
+  color: #ffff66;
+  font-family: 'Katibeh', cursive;
+  border-radius: 10px;
+}
+
+.button:hover 
+{
+  background-color: #ffff66; 
+  color: black;
+  border: 2px solid ivory;
+  width:220px;
+}
+
+.extra
+{
+  height: 100px;
+  background-color: beige;
+  border: none;
+}
+
+
+
+
