@@ -15,8 +15,15 @@ function display()
   captionText.innerHTML = this.alt;
 }
 
-document.getElementById("myImg").addEventListener('click', display);
+document.getElementById("myImg1").addEventListener('click', display);
 document.getElementById("myImg2").addEventListener('click', display);
+document.getElementById("myImg3").addEventListener('click', display);
+document.getElementById("myImg4").addEventListener('click', display);
+document.getElementById("myImg5").addEventListener('click', display);
+document.getElementById("myImg6").addEventListener('click', display);
+document.getElementById("myImg7").addEventListener('click', display);
+document.getElementById("myImg8").addEventListener('click', display);
+document.getElementById("myImg9").addEventListener('click', display);
 
 /*document.getElementById("myImg2").onclick = function(){
   modal.style.display = "block";
