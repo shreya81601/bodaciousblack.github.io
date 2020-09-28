@@ -1,3 +1,8 @@
+body
+{
+  /*background-color: beige;*/
+}
+
 
 /*====================================================================*/
 /*FOR THE TOP HEADER/NAVIGATION BAR*/
@@ -67,11 +72,16 @@ h2
   display: block;
   width: 45%;
   height auto;
-  background-color: ivory;
+  /*background-color: yellow;*/
+  /*background-color: beige;*/
+  background-image: url("Images/vidbg12.jpg");
+  /*background-size: cover;*/
   margin: 70px 10px 50px 10px;
   padding: 25px;
-  opacity: 0.8;
-  border: 3px solid yellow;
+  /*opacity: 0.8;*/
+  /*border: 3px solid black;*/
+  box-shadow: 10px 8px 16px 0px rgba(0,0,0,0.5);
+  /*font-weight: bold;*/
 }
 
 .m1
@@ -88,6 +98,7 @@ h2
   font-family: "Times New Roman";*/ 
   margin: 0;
   color: grey;
+  /*background: rgba(255,255,255,0.5)*/
 }
 
 .m3
@@ -166,8 +177,11 @@ img
     width: 300px;
     /*height: 30px;*/
     /*border: 1px solid black;*/
-    vertical-align: middle; /*not doing anything*/
     text-align: center;
+    background: rgba(255,255,102,1);
+    /*padding: 5px 0px;*/
+    height: 30px;
+    line-height: 30px;
  } 
 
 /*.shadow:hover 

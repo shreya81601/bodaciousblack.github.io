@@ -117,7 +117,6 @@ a
 }
 
 
-
 /*===========================================================================*/
 /*FOOTER*/
 
@@ -159,14 +158,15 @@ h4
   display: inline-block;
   flex: 1;
   margin: 0;
-  text-align: right;
+  text-align: center;
+  /*padding: 0 10%;*/
   /*padding: 0 20px;*/
 }
 
 .contact
 {
   display: inline-block;
-  flex: 1.5;
+  flex: 1;
   font-size: 16pt;
   /*background-color: yellow;*/
   margin: 0;
@@ -194,6 +194,7 @@ footer .contact span
 {
   padding-top: 30px;
   flex: 0.2;
+  text-align: left;
 }
 
 footer .social a
