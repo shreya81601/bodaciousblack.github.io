@@ -1,7 +1,7 @@
 # bodaciousblack.github.io
 A clothing website specializing in black clothing lines
 
-PROJECT NAME<br>
+<b>PROJECT NAME</b><br>
 Bodacious Black
 
 Project Description: what is the project, what is the overall concept and theme, and what kind of experience you were striving to create.
