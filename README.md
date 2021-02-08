@@ -4,6 +4,9 @@ A clothing website specializing in black clothing lines
 <b>PROJECT NAME</b><br>
 Bodacious Black
 
+<b>LINK TO PROJECT</b><br>
+https://shreya81601.github.io/bodaciousblack.github.io/
+
 <b>PROJECT DESCRIPTION</b>
 <p>A website for the company <i>Bodacious Black</i> which specializes in Black Clothing lines for Men and Women of all age groups. Bodacious Black Clothes are suitable for a variety of occasions.</p>
 <p>The website is built around a video which was made in NYUAD's IM CommLab class as a part of the 30 Minute Film Festival (30MFF). The cast in the video can be seen throwing black clothes around and having a lot of fun, hence a black clothing website which uses that as its hype/promo video.</p>
